@@ -45,7 +45,7 @@ I enjoy working on problems where **data, system design, and intelligence meet r
 - Financial-grade stability & reliability engineering
 
 ### Tech Stack
-`Java` · `Python` · `Kafka` · `Redis` · `Elasticsearch` · `Docker` · `Linux`
+`Java` · `Rust` · `Python` · `Kafka` · `Redis` · `Elasticsearch` · `Docker` · `Linux`
 
 ---
 
